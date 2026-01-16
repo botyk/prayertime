@@ -1,5 +1,5 @@
 <?php
-$title = 'Время намазов';
+$title = 'Время намаза';
 ?><!doctype html>
 <html lang="ru">
 <head>
@@ -9,7 +9,7 @@ $title = 'Время намазов';
 </head>
 <body>
 
-<h3><?=$title?>: <a href="https://namaztimes.kz/ru/dev" target="_blank">https://namaztimes.kz/ru/dev</a></h3>
+<h3><?=$title?> API: <a href="https://namaztimes.kz/ru/dev" target="_blank">https://namaztimes.kz/ru/dev</a></h3>
 
 <?php
 
@@ -115,4 +115,5 @@ function resetState(form) {
 </script>
 
 </body>
+
 </html>
